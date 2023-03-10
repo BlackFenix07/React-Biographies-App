@@ -1,0 +1,37 @@
+.contenedor-personaje {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 10px 50px;
+  width: 1170px;
+  height: 368px;
+  background: teal;
+}
+
+.imagen-personaje {
+  width: auto;
+  height: 100%;
+}
+
+.contenedor-texto-personaje {
+  padding: 40px;
+  font-weight: 400;
+  font-family: Lato, sans-serif;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.nombre-personaje {
+  font-size: 1.4rem;
+}
+
+.cargo-personaje {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+}
+
+.biografia-personaje {
+  font-size: 1.1rem;
+  text-align: justify;
+}
