@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Biographies-App/static/css/main.e7bce7e1.css",
+    "main.js": "/React-Biographies-App/static/js/main.0873fed4.js",
+    "static/media/naruto-y-kurama.png": "/React-Biographies-App/static/media/naruto-y-kurama.265ea62a02e43b21f986.png",
+    "static/media/sasuke.png": "/React-Biographies-App/static/media/sasuke.78fd38dcdd87ff6fed6a.png",
+    "static/media/shikamaru.png": "/React-Biographies-App/static/media/shikamaru.aba197d9c870fc23d8d7.png",
+    "index.html": "/React-Biographies-App/index.html",
+    "main.e7bce7e1.css.map": "/React-Biographies-App/static/css/main.e7bce7e1.css.map",
+    "main.0873fed4.js.map": "/React-Biographies-App/static/js/main.0873fed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bce7e1.css",
+    "static/js/main.0873fed4.js"
+  ]
+}
